@@ -3,3 +3,4 @@ vespa
 barata
 cupim
 aranha
+escorpião
