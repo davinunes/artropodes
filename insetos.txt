@@ -2,5 +2,5 @@ formiga
 vespa
 barata
 cupim
-aranha
 escorpião
+abelha
