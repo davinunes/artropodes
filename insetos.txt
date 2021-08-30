@@ -1,0 +1,5 @@
+formiga
+vespa
+barata
+cupim
+aranha
