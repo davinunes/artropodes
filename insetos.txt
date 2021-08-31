@@ -4,3 +4,4 @@ barata
 cupim
 escorpião
 abelha
+tanajura
