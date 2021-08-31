@@ -2,3 +2,4 @@ aranha
 escorpiao
 carrapato
 ácaro
+opilião
